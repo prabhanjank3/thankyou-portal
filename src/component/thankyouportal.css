@@ -1,0 +1,40 @@
+@import url("https://fonts.googleapis.com/css2?family=Spirax&display=swap");
+.add-details-btn {
+  padding: 3px 5px;
+  font-family: "Open Sans", -apple-system, system-ui, BlinkMacSystemFont,
+    "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol";
+  font-size: 14px;
+  font-weight: 400;
+  line-height: normal;
+  background-color: #3272d9;
+  background-color: 0%;
+  margin: 0px 10px;
+}
+.say-thankyou-btn {
+  padding: 3px 5px;
+  font-family: "Open Sans", -apple-system, system-ui, BlinkMacSystemFont,
+    "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol";
+  font-size: 14px;
+  font-weight: 400;
+  line-height: normal;
+  background-color: #3272d9;
+  background-color: 0%;
+}
+.thankyou-for-input {
+  width: 60%;
+  text-align: center;
+  font-family: "Spirax", cursive;
+  font-size: 1.5rem;
+}
+.thankyou-descr-input {
+  text-align: center;
+  width: 60%;
+  font-family: "Spirax", cursive;
+  font-size: 1.2rem;
+  font-weight: 200;
+}
+.thankyouform-btn-panel {
+  margin-bottom: 10px;
+}
